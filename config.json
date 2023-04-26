@@ -1,0 +1,15 @@
+{
+    "token": "",
+    "guild_id": "1097496639532433518",
+    "helper_role_id": "1097537065694015488",
+    "mod_role_id": "1097537026586320987",
+    "admin_role_id": "1097536981837287615",
+    "manager_role_id": "1097536929626591316",
+    "owner_role_id": "1097536592094167100",
+    "error_log_channel_id": "1097518806156460072",
+    "mongodb_uri": "",
+    "success_color": "#7ec57c",
+    "error_color": "#990002",
+    "neutral_color": "#009db1",
+    "everyoneID": "1097496639532433518"
+}

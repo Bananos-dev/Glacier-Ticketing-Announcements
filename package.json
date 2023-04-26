@@ -1,0 +1,17 @@
+{
+  "name": "tyyppi_fiverr003",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.9.0",
+    "glob": "^10.2.2",
+    "mongoose": "^7.0.5"
+  }
+}
